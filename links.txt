@@ -1,0 +1,8 @@
+You are about to give API Gateway permission to invoke your Lambda function:
+arn:aws:lambda::function:MathsFunction
+
+# For making API call with parameters and use promises to get response
+Invoke URL: https://pynixznlqa.execute-api.us-west-2.amazonaws.com/Dev 
+
+# This is for creating trusted relationship between dynamodb and lambda IAM
+ARN for DB: arn:aws:dynamodb::table/MathsFunctionDB
